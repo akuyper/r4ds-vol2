@@ -1,4 +1,30 @@
+# R files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+.Rbuildignore
+
+# RStudio files
+r4ds-vol2.Rproj
+
+# bookdown output files
+*_bookdown_files
+r4ds-vol2.Rmd
+r4ds-vol2.pdf
+*.tex
+*.auc
+*.aux
+*.idx
+*.log
+*.out
+*.toc
+bib/packages.bib
+purl.Rout
+docs/*
+packages.bib
+
+# other files
+.httr-oauth
+*rsconnect/
